@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSVSerializer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSVSerializer_jar</output-path>
+    <root id="archive" name="CSVSerializer.jar">
+      <element id="module-output" name="CSVSerializer" />
+    </root>
+  </artifact>
+</component>
